@@ -1,0 +1,9 @@
+PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)
+
+Benefits: Income support of Rs 6,000 per year to eligible farmer families, paid in three equal instalments of Rs 2,000 every four months, directly to the bank account (DBT).
+
+Eligibility: Farmer families who own cultivable land. Certain higher-income categories such as income tax payers and institutional landholders are excluded.
+
+Documents required: Aadhaar card, bank account passbook linked with Aadhaar, land ownership records (patta/chitta), mobile number.
+
+How to apply: 1. Visit pmkisan.gov.in and click 'New Farmer Registration' or visit the nearest Common Service Centre (CSC). 2. Enter Aadhaar, mobile number and state. 3. Fill land and bank details. 4. Complete e-KYC. 5. Submit and note the registration number.
